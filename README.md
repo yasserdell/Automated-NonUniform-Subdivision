@@ -49,22 +49,4 @@ The colors used in the figures indicate the local geometric behavior associated 
 
 The labels \(C1,\ldots,C60\) identify the generated configurations.
 
----
 
-## Suggested repository structure
-
-```text
-Automated-NonUniform-Subdivision/
-│
-├── README.md
-│
-├── data/
-│   ├── initial_parameters_used_in_figure_all_pairs.xlsx
-│   └── initial_parameters_all_sensitivity_pairs.xlsx
-│
-└── figures/
-    ├── case_mu0_nu2_60_configurations.png
-    ├── case_mu0_nu3_60_configurations.png
-    ├── case_mu1_nu0_60_configurations.png
-    ├── case_mu1_nu1_60_configurations.png
-    └── case_mu1_nu2_60_configurations.png
